@@ -1,0 +1,20 @@
+
+* text eol=lf
+
+*.rs eol=lf
+*.toml eol=lf
+*.html eol=lf
+*.js eol=lf
+*.css eol=lf
+
+*.png    binary
+*.jpg    binary
+*.gif    binary
+*.eot    binary
+*.ttf    binary
+*.woff   binary
+*.woff2  binary
+*.pdf    binary
+*.exe    binary
+*.dmg    binary
+*.svg    binary

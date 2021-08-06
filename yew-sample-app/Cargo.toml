@@ -1,0 +1,8 @@
+[package]
+name = "yew-sample-app"
+version = "0.1.0"
+authors = ["zeppilabs <zeppilabs@protonmail.ch>"]
+edition = "2018"
+
+[dependencies]
+yew = "0.18"
